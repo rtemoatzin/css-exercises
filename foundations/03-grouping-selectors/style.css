@@ -1,0 +1,14 @@
+.b-button,
+.y-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.b-button{
+    background-color: black;
+    color: white;
+}
+
+.y-button{
+    background-color: yellow;
+}
